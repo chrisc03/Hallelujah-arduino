@@ -108,6 +108,10 @@ int tempo = 90;
 int buzzer = 13;
 
 int melody [] = {
+ NOTE_C3, 8, NOTE_G3, 8, NOTE_C4, 8, NOTE_E4, 8,
+  NOTE_C4, 8, NOTE_B2, 8, NOTE_A2, 8, NOTE_E3, 8,
+  NOTE_A3, 8, NOTE_C4, 8, NOTE_A3, 8,     
+  NOTE_A2, 8, 
 
  
 
